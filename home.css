@@ -1,0 +1,76 @@
+#header{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 80px;
+    
+   
+    
+}
+footer{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-between;
+
+}
+footer .h4{
+    font-size:14px;
+    padding-bottom: 20px;
+    margin:0 0 8px 0;
+}
+footer .a{
+    font-size: 13px;
+    text-decoration: none;
+    color:black;
+
+}
+
+.logo{
+    height:200px;
+
+}
+#mobilecover{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    color:brown;
+    font-size:larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+}
+#fashion{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    font-size: larger;
+ color:brown;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#brandname1{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    
+    
+}
+
+#navbar{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#navbar li{
+    list-style-type: none;
+    padding: 0 20px;
+
+}
+#navbar li a{
+    text-decoration: none;
+    font-size:16px;
+    font-weight:600;
+    color:black;
+    transition: 0.3s ease;
+}
